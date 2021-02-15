@@ -1,0 +1,31 @@
+
+
+BuscaData
+function (doc) {
+  index("data", doc.data, {"facet": true});
+  index("event", doc.event, {"facet": true});
+}
+
+BuscaMes
+ function(doc) {
+    index("mes", doc.mes, {"facet": true});
+    index("event", doc.event, {"facet": true});
+}
+
+BuscaMesLogUtc
+function (doc) {
+  index("mes_log_utc", doc.mes_log_utc);
+}
+
+ID da organização
+w72j07
+Tipo de dispositivo
+ESP8266
+ID do dispositivo
+001
+Método de autenticação
+use-token-auth
+Token de autenticação
+4J9Q@joPDzQ&5B?5(_
+
+

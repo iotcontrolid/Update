@@ -1,6 +1,6 @@
 {
-  "swVersion": "1.0",
-  "swMandatory": false,
+  "swVersion": "1.2",
+  "swMandatory": true,
   "swURL": "https://raw.githubusercontent.com/iotcontrolid/Update/main/Blink.ino.generic.bin",
   "fsVersion": "1.0",
   "fsMandatory": false,

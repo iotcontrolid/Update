@@ -1,5 +1,5 @@
 {
-  "swVersion": "1.1",
+  "swVersion": "1.0",
   "swMandatory": false,
   "swURL": "https://raw.githubusercontent.com/Spark-br/Iot_ID/main/Blink.ino.generic.bin",
   "fsVersion": "1.0",

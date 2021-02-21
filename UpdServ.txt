@@ -5,12 +5,12 @@
   "fsVersion": "1.0",
   "fsMandatory": false,
   "fsURL": "https://raw.githubusercontent.com/iotcontrolid/Update/main/API_CONTROL_ID_IBM_Cloud_With_Log_4_0.spiffs.bin",
-  "prVersion": "1.0",
+  "prVersion": "1.1",
   "prMandatory": true,
   "PrURL":"https://raw.githubusercontent.com/iotcontrolid/Update/main/UpdServ.txt",
-  "deviceTokem": "PX4cNvNEyZoeimyd!?",
+  "deviceTokem": "+jK-IdjjruT5(NwAwS",
   "deviceType": "ESP8266",
-  "org": "gm0zig"
+  "org": "a4bcoq"
 }
 
 

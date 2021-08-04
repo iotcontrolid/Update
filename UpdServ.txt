@@ -5,7 +5,7 @@
   "fsVersion": "1.4",
   "fsMandatory": false,
   "fsURL": "https://raw.githubusercontent.com/iotcontrolid/Update/main/API_CONTROL_ID.spiffs.bin",
-  "prVersion": "1.6",
+  "prVersion": "1.7",
   "prMandatory": true,
   "PrURL":"https://raw.githubusercontent.com/iotcontrolid/Update/main/UpdServ.txt",
   "deviceTokem": ")+p-rwFDiYj1r2n5AK",

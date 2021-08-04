@@ -8,9 +8,9 @@
   "prVersion": "1.5",
   "prMandatory": true,
   "PrURL":"https://raw.githubusercontent.com/iotcontrolid/Update/main/UpdServ.txt",
-  "deviceTokem": "ThgSQc5Y2jS?rl2rJ2",
+  "deviceTokem": ")+p-rwFDiYj1r2n5AK",
   "deviceType": "ESP8266",
-  "org": "jifs0h"
+  "org": "86lzkc"
 }
 
 
